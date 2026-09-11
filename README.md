@@ -1,0 +1,2 @@
+A document repository with a viewer, content search, relationship graph, and AI assistant — all in a single file
+guaitaCorpus organizes a folder of PDF, HTML, Markdown, EPUB, LaTeX, and BibTeX documents: it keeps them in their original format, builds metadata records for them, indexes them for full-text search, draws their relationship graph, and, if you set it up, lets you ask questions about them with an external AI model. Everything happens in your browser and in your own folder — no server, no account, no installation.
